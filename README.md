@@ -33,6 +33,16 @@ Slush does not contain anything "out of the box", except the ability to locate i
 
 To find out more about Slush, check out the [documentation](https://github.com/slushjs/slush).
 
+## Change log
+
+#### 0.1.0
+
+* Refactoring slushfile in line with ES6.
+
+#### 0.0.0
+
+* The tree project with React+Redux demo project creation.
+
 ## Contributing
 
 See the [CONTRIBUTING Guidelines](https://github.com/KateKate/slush-spa/blob/master/CONTRIBUTING.md)
