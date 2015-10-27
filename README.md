@@ -35,6 +35,10 @@ To find out more about Slush, check out the [documentation](https://github.com/s
 
 ## Change log
 
+#### 0.1.1
+
+* Update dependencies for the slush app.
+
 #### 0.1.0
 
 * Refactoring slushfile in line with ES6.
