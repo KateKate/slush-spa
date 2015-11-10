@@ -1,7 +1,7 @@
 {
   "name": "slush-spa",
   "description": "SPA creation",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/KateKate/slush-spa",
   "author": {
     "name": "Kate Anishkina",
@@ -29,7 +29,6 @@
     "test": "echo \"No tests\""
   },
   "dependencies": {
-    "babel": "^5.8.29",
     "gulp": "^3.6.2",
     "gulp-conflict": "^0.3.0",
     "gulp-install": "^0.3.0",

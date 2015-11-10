@@ -35,6 +35,10 @@ To find out more about Slush, check out the [documentation](https://github.com/s
 
 ## Change log
 
+#### 0.1.2
+
+* Remove ES6 from slushfile so it inovoked the problem of deploying process.
+
 #### 0.1.1
 
 * Update dependencies for the slush app.
